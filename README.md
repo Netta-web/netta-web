@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and AI enthusiast from Ghana</h3>
 
 - 📫 How to reach me **bennettaeyram@gmail.com**
-
+  
 - ⚡ Fun fact **I love to read and play sudoku.**
 
 <h3 align="left">Connect with me:</h3>
