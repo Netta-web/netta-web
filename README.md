@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **bennettaeyram@gmail.com**
 
-- ⚡ Fun fact **I love to read and play sudoku.**
+- ⚡ Fun fact **I love to read, play sudoku and create graphics (design).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
